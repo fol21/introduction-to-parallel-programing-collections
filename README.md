@@ -1,4 +1,4 @@
-# Introduction to Parallel Programming — Collections
+# Introduction to Parallel Programming: Example Collections
 
 A collection of source code discussed in **"An Introduction to Parallel Programming"** by Peter Pacheco.
 
